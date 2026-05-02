@@ -21,7 +21,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(45deg, rgba(255,0,0,0.4), rgba(0,255,0,0.4), rgba(0,0,255,0.4), rgba(255,0,0,0.4)), url('https://images.unsplash.com/photo-1501785888041-af3ef285b470') center / cover no-repeat;
+  background: linear-gradient(45deg, rgba(255,0,0,0.4), rgba(0,255,0,0.4), rgba(0,0,255,0.4), rgba(255,0,0,0.4)), url('https://unsplash.com/photos/abstract-artwork-with-bright-colors-and-textures-domPlwQIhnE') center / cover no-repeat;
   background-size: 400% 400%, cover;
   animation: gradientShift 15s ease infinite;
 }
