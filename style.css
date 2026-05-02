@@ -21,7 +21,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(45deg, rgba(255,0,0,0.4), rgba(0,255,0,0.4), rgba(0,0,255,0.4), rgba(255,0,0,0.4)), url('https://unsplash.com/photos/abstract-artwork-with-bright-colors-and-textures-domPlwQIhnE') center / cover no-repeat;
+  background: linear-gradient(45deg, rgba(255,0,0,0.4), rgba(0,255,0,0.4), rgba(0,0,255,0.4), rgba(255,0,0,0.4)), url('https://unsplash.com/photos/ink-wash-painting-of-a-rocky-archway-over-water-Ai1qdq3bpto') center / cover no-repeat;
   background-size: 400% 400%, cover;
   animation: gradientShift 15s ease infinite;
 }
